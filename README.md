@@ -14,7 +14,7 @@ The diagram illustrates two primary flows:
 
 ## Usage
 
-Run the simulation directly from your terminal or command prompt:
+This simulation is built as a Jupyter Notebook. To run it, open your terminal or command prompt and start Jupyter:
 
 ```bash
-project1.ipynb
+jupyter notebook project1.ipynb
